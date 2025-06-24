@@ -38,8 +38,8 @@ Designed with Tailwind CSS, responsive for mobile and desktop.
 Implemented secure user login, playlist storage, and audio metadata handling via serverless APIs.  
 Designed user flows and assisted in frontend integration for a responsive and dynamic user experience.
 
-🔗 Project Repo: [lak-shay1/music-subscription-app](https://github.com/lak-shay1/music-subscription-app)  
-👥 Team Project – developed in collaboration with [@lak-shay1](https://github.com/lak-shay1)
+🔗 Forked Repo: [Harriet2004/music-subscription-app](https://github.com/Harriet2004/music-subscription-app)  
+📌 Originally from [lak-shay1/music-subscription-app](https://github.com/lak-shay1/music-subscription-app)
 
 ---
 
