@@ -40,6 +40,7 @@ Designed user flows and assisted in frontend integration for a responsive and dy
 
 🔗 Project Repo: [lak-shay1/music-subscription-app](https://github.com/lak-shay1/music-subscription-app)  
 👥 Team Project – developed in collaboration with [@lak-shay1](https://github.com/lak-shay1)
+
 ---
 
 ## 🛠 Skills & Tools
