@@ -20,6 +20,8 @@ I’m confident working across the entire stack — building APIs with Express, 
 > Built a complete ML pipeline to classify colon histology images (cancerous vs. non-cancerous + 4 cell types).  
 Implemented CNNs from scratch, handled class imbalance, applied augmentation and semi-supervised learning.
 
+👥 Team Project – developed in collaboration with [@lak-shay1](https://github.com/lak-shay1)
+
 ### 🌍 [World Cup vs Olympics – Social Media Analysis](https://github.com/Harriet2004/SocialMedia)
 > Analyzed Reddit & YouTube posts to compare global engagement and emotional unity during Olympics vs World Cup.  
 Used VADER sentiment analysis, LDA topic modeling, and Louvain graph clustering.
@@ -31,10 +33,13 @@ Designed with Tailwind CSS, responsive for mobile and desktop.
 ### 🎬 [MovieWorld – Movie Discovery Platform](https://github.com/Harriet2004/MovieWorld)
 > Search trending movies with TMDb API. Built with React, Appwrite, and responsive design principles.
 
-### ☁️ [Cloud Music Subscription Platform](private or in progress)
-> Cloud-hosted music app using AWS Lambda, API Gateway, S3, and DynamoDB.  
-Secure user login, real-time music data, and image rendering via S3.
+### ☁️ Cloud Music Subscription Platform  
+> Collaborated on a cloud-native music app using **AWS Lambda**, **API Gateway**, **DynamoDB**, and **S3** for seamless backend scalability.  
+Implemented secure user login, playlist storage, and audio metadata handling via serverless APIs.  
+Designed user flows and assisted in frontend integration for a responsive and dynamic user experience.
 
+🔗 Project Repo: [lak-shay1/music-subscription-app](https://github.com/lak-shay1/music-subscription-app)  
+👥 Team Project – developed in collaboration with [@lak-shay1](https://github.com/lak-shay1)
 ---
 
 ## 🛠 Skills & Tools
